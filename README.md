@@ -1,2 +1,2 @@
 # exercices_processus
-Quelques exercices (SE) concernant la gestion des processus.
+Quelques exercices (SE L3) concernant la gestion des processus.
